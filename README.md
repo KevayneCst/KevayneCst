@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=kevaynecst&layout=compact)
+
+## Contact
+
+If you want to join me, you can use LinkedIn [<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/constantinkevin/), where you can also find other information about me ! 😄
+
 <!--
 **KevayneCst/KevayneCst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
